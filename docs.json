@@ -18,7 +18,10 @@
         ]
       },
       {
-        "tab": "Partners"
+        "tab": "Partners",
+        "pages": [
+          "commmision-structure"
+        ]
       }
     ]
   },
