@@ -11,22 +11,9 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Introduction",
+        "tab": "Home",
         "pages": [
-          "welcome",
-          {
-            "group": "Quick start",
-            "icon": "rocket-launch",
-            "pages": [
-              "get-started"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Partner",
-        "pages": [
-          "commmision-structure"
+          "welcome-to-spotlight"
         ]
       }
     ]
