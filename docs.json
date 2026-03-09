@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "linden",
+  "theme": "willow",
   "name": "Spotlight",
   "colors": {
     "primary": "#0b0b0b",
@@ -84,7 +84,6 @@
   },
   "fonts": {
     "family": "Inter",
-    "weight": 400,
     "heading": {
       "family": "Inter"
     },
@@ -102,7 +101,7 @@
     }
   },
   "icons": {
-    "library": "fontawesome"
+    "library": "lucide"
   },
   "seo": {
     "indexing": "all"
