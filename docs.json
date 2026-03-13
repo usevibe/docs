@@ -7,7 +7,10 @@
     "light": "#dbdbdb",
     "dark": "#222222"
   },
-  "favicon": "/images/Untitleddesign(2).png",
+  "favicon": {
+    "light": "/images/Group(1).png",
+    "dark": "/images/Group.png"
+  },
   "navigation": {
     "tabs": [
       {
