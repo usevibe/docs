@@ -72,6 +72,10 @@
           {
             "label": "Status",
             "href": "https://status.usevibe.net"
+          },
+          {
+            "label": "Contribute",
+            "href": "https://vibe.featurebase.app/"
           }
         ]
       }
