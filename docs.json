@@ -14,9 +14,14 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Home",
+        "tab": "Introduction",
         "pages": [
-          "welcome",
+          {
+            "group": "Getting started",
+            "pages": [
+              "welcome-to-vibe"
+            ]
+          },
           "get-started"
         ]
       },
