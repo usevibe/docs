@@ -1,9 +1,9 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "maple",
+  "theme": "mint",
   "name": "Vibe",
   "colors": {
-    "primary": "#0b0b0b",
+    "primary": "#2EA1F2",
     "light": "#dbdbdb",
     "dark": "#222222"
   },
@@ -94,7 +94,7 @@
     }
   },
   "background": {
-    "decoration": "grid"
+    "decoration": "gradient"
   },
   "errors": {
     "404": {
