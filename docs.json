@@ -29,8 +29,9 @@
             "group": "Products",
             "pages": [
               "vibe-mobile",
-              "vibe-web-app",
-              "vibe-partner-app"
+              "vibe-partner",
+              "vibe-glasses",
+              "vibe-coin"
             ]
           },
           {
