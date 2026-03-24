@@ -56,11 +56,14 @@
       {
         "tab": "Changelog",
         "pages": [
-          "vibe-changelog"
+          "vibe-changelog",
+          {
+            "group": "Changelog",
+            "pages": [
+              "faq-copied-1"
+            ]
+          }
         ]
-      },
-      {
-        "tab": "Untitled Tab"
       }
     ]
   },
