@@ -55,8 +55,7 @@
       },
       {
         "tab": "Changelog",
-        "pages": [
-          "vibe-changelog",
+        "groups": [
           {
             "group": "Changelog",
             "pages": [
