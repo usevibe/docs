@@ -54,7 +54,13 @@
         ]
       },
       {
-        "tab": "Changelog"
+        "tab": "Changelog",
+        "pages": [
+          "vibe-changelog"
+        ]
+      },
+      {
+        "tab": "Untitled Tab"
       }
     ]
   },
